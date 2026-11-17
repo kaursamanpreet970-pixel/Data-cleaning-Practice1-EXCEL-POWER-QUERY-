@@ -177,20 +177,6 @@ These are points I identified on review and would address in a further iteration
 The final table is ready to be loaded into a PivotTable, Power BI, or Tableau for further analysis and visualisation.
 
 ---
-
-## How to Run this project?
-
-1. Download `data_cleaning_practice_1.xlsx` from this repository.
-2. Open the file in Microsoft Excel (Microsoft 365 or Excel 2016 and later; Power Query is required, so Excel for the web is not suitable for editing queries).
-3. Review the three sheets: `RAW DATA`, `Table1`, and `CLEANED DATASET`.
-4. Go to **Data > Queries & Connections** to see the two saved queries, `Table1` and `Table1_1`.
-5. Right-click a query and choose **Edit** to open the Power Query Editor. The **Applied Steps** pane on the right lists every transformation in order, and you can click each step to see the data at that stage.
-6. To refresh the output, choose **Data > Refresh All**.
-
-> **Important:** the queries were built against a source file saved on my local machine. If a refresh reports that the source cannot be found, go to **Data > Get Data > Data Source Settings**, select the workbook connection, choose **Change Source**, and point it to the location of your downloaded copy.
-
----
-
 ## Results & Conclusion
 
 - **Outcome:** 14,038 unstructured text rows were converted into a structured four-column table with correct data types (whole number, text, and decimal number), with no rows lost or rejected during parsing.
@@ -205,6 +191,6 @@ The final table is ready to be loaded into a PivotTable, Power BI, or Tableau fo
 **SAMANPREET KAUR**
 BA Student | Aspiring Data Analyst, Business Analyst, and BI Developer
 
-- LinkedIn: [](www.linkedin.com/in/kaursamanpreet)
-- Email: [](mailto:kaursamanpreet970@outlook.com)
-- GitHub: [](https://github.com/kaursamanpreet970-pixel)
+- LinkedIn: [www.linkedin.com/in/kaursamanpreet](www.linkedin.com/in/kaursamanpreet)
+- Email: [mailto:kaursamanpreet970@outlook.com](mailto:kaursamanpreet970@outlook.com)
+- GitHub: [https://github.com/kaursamanpreet970-pixe](https://github.com/kaursamanpreet970-pixel)
