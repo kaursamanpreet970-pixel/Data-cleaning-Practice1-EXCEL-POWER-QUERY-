@@ -191,6 +191,6 @@ The final table is ready to be loaded into a PivotTable, Power BI, or Tableau fo
 **SAMANPREET KAUR**
 BA Student | Aspiring Data Analyst, Business Analyst, and BI Developer
 
-- LinkedIn: [www.linkedin.com/in/kaursamanpreet](www.linkedin.com/in/kaursamanpreet)
+- LinkedIn: [www.linkedin.com/in/kaursamanpreet](https://www.linkedin.com/in/kaursamanpreet/)
 - Email: [mailto:kaursamanpreet970@outlook.com](mailto:kaursamanpreet970@outlook.com)
-- GitHub: [https://github.com/kaursamanpreet970-pixe](https://github.com/kaursamanpreet970-pixel)
+- GitHub: [https://github.com/kaursamanpreet970-pixel](https://github.com/kaursamanpreet970-pixe)
